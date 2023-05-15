@@ -1,0 +1,47 @@
+.c{
+    display: flex;
+    height:100vh;
+    background-color: #DAF5FF;
+}
+.c-left{
+    flex:1;
+    display:flex;
+    flex-direction: column;
+
+
+  /* display: grid;
+  grid-template-row: 1fr 1fr; */
+  
+    
+}
+.c-right{
+    flex:1;
+    /* display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;  */
+}
+form{
+    margin-top: 20px;
+    
+}
+input{
+    width:50%;
+    height: 50px;
+    border:none;
+    border-bottom: 1px solid black;
+    margin:10px 0px;
+    font-size: 14px;
+    padding-left: 10px;
+}
+textarea{
+    width: 80%;
+ 
+}
+button{
+border:none;
+padding: 15px;
+background-color: #666;
+}
+

@@ -1,0 +1,76 @@
+.q{
+    display: flex;
+    height:100vh;
+    /* background-color: aqua; */
+    text-align: center;
+}
+
+.e-left{
+    flex:1;
+    margin-right: 250px;
+    margin-top: 5px;
+    /* margin-top:50px; */
+}
+.e-right{
+    flex:1;
+}
+.head{
+    font-size: 30px;
+    
+    text-align: center;
+    
+}
+.e-line{
+margin-top: 25px;
+}
+
+.h-logo{
+    width:80px;
+    margin-top: 30px;
+   
+}
+.c-logo{
+    width:80px;
+  
+   
+}
+.j-logo{
+    width:90px;
+    margin-top: 20px;
+    
+}
+.r-logo{
+    width:100px;
+    margin-top: 25px;
+    
+  
+}
+.s-logo{
+    width:120px;
+   
+}
+.m-logo{
+    width:100px;
+   
+}
+.n-logo{
+    width:120px;
+    margin-top: 40px;
+
+ 
+}
+.e-logo{
+    width:120px;
+   
+}
+.g-logo{
+    width:70px;
+    
+}
+.i-logo{
+    margin-top: 20px;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:50px;
+    margin-right: 50px;
+}
