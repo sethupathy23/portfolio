@@ -14,11 +14,6 @@ const ProjectList = () => {
 
       <Project />
 
-    
-
-      
-
-
     </div>
      </div>
     

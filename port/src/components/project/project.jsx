@@ -21,7 +21,7 @@ const Project = () => {
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Lizard 
+      
           
         </Typography>
         {/* <Typography variant="body2" color="text.secondary">

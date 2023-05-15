@@ -1,6 +1,6 @@
 .pl{
     height:100vh;
-    background-color: pink;
+    /* background-color: pink; */
     padding:50px 100px;
     display: flex;
     flex-direction: column;

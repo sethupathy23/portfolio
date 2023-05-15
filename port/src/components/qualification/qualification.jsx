@@ -67,7 +67,7 @@ const Qualification = () => {
     
   </Timeline>
   
-  <vr />
+  <br />
   </div>
   </div>
   <div className="e-right"><h1>Skills and Tools</h1>
