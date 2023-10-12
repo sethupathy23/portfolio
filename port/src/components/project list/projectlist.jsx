@@ -10,9 +10,8 @@ const ProjectList = () => {
      <h1 className='title'>MY PROJECTS</h1>
     <div className="pl-list">
       <Project  />
-      <Project />
-
-      <Project />
+   
+     
 
     </div>
      </div>

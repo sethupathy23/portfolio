@@ -8,14 +8,14 @@
     text-align: center;
 
 }
-.pl-list{
+/* .pl-list{
     /* display: flex; */
     display:grid;
     grid-template-columns:1fr 1fr 1fr;
     gap:50px 90px;
     /* border-radius: 500px; */
 
-}
+} */
 .p{
   
     /* flex-wrap: nowrap; */

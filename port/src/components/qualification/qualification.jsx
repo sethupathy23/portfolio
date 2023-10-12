@@ -39,30 +39,32 @@ const Qualification = () => {
         <TimelineDot color="secondary" />
         <TimelineConnector />
       </TimelineSeparator>
-      <TimelineContent><h4> Annamalai university</h4> <br />
+      <TimelineContent><h4> Annamalai university</h4><br />
             <h5>Bachelor of Civil Engineering</h5> <br />
-            <h6>passed out 2017</h6><br />
-           percentage - 75% <br /></TimelineContent>
+            <h5>percentage - 63%</h5> <br />
+          </TimelineContent>
     </TimelineItem>
     <TimelineItem>
       <TimelineSeparator>
         <TimelineDot color="success" />
         <TimelineConnector />
       </TimelineSeparator>
-      <TimelineContent><h4> Annamalai university</h4> <br />
-            <h5>Bachelor of Civil Engineering</h5> <br />
-            <h6>passed out 2017</h6><br />
-           percentage - 75% <br /></TimelineContent>
+      <TimelineContent><h4>Laurel Higher Secondary School</h4><br />
+            <h5 className='higher'>Higher Secondary</h5><br />
+          <h5>percentage - 63%</h5><br />
+           </TimelineContent>
     </TimelineItem>
     <TimelineItem>
       <TimelineSeparator>
         <TimelineDot color="secondary" />
         <TimelineConnector />
       </TimelineSeparator>
-      <TimelineContent><h4> Annamalai university</h4> <br />
-            <h5>Bachelor of Civil Engineering</h5> <br />
-            <h6>passed out 2017</h6><br />
-           percentage - 75% <br /></TimelineContent>
+      <TimelineContent><h4> Laurel Higher Secondary School</h4><br />
+            <h5>Secondary School</h5><br />
+      
+         
+           <h5>percentage - 76%</h5><br />
+            </TimelineContent>
     </TimelineItem>
     
   </Timeline>
