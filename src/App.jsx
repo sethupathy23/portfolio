@@ -26,7 +26,7 @@ function App() {
             <Toolbar>
               <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                 <Button onClick={() => navigate("/")} color="inherit">
-                  sp.
+                  portfolio
                 </Button>
               </Typography>
               <div className="nav-btn">
